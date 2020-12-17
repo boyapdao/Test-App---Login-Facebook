@@ -1,0 +1,13 @@
+Bạn có thể xuất một bản sao thông tin của mình hoặc xóa thông tin đó khỏi Tài khoản App Login Facebook bất cứ lúc nào
+
+Bạn có thể xuất một bản sao nội dung trong Tài khoản Facebook của mình nếu muốn sao lưu hoặc sử dụng nội dung này với một dịch vụ bên ngoài Facebook.
+
+
+Xuất dữ liệu của bạn
+
+Để xóa thông tin của mình, bạn có thể:
+
+Xóa nội dung của bạn khỏi các dịch vụ cụ thể của App
+Tìm kiếm, sau đó xóa các nội dung cụ thể khỏi tài khoản của bạn bằng cách sử dụng mục Hoạt động của tôi
+Xóa các sản phẩm cụ thể của App, bao gồm cả thông tin của bạn liên kết với các sản phẩm đó
+Xóa toàn bộ Tài khoản Facebook App của bạn
